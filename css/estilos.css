@@ -246,6 +246,10 @@ input, textarea {
     border-color: #f52ec0;
     background-color: #161414; }
 
+p.text-muted {
+  margin-left: 8%;
+  font-size: 0.8rem; }
+
 .chica {
   font-size: 2rem; }
 
